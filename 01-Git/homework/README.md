@@ -115,7 +115,7 @@ En este momento, podemos usar el comando de git "status", esto nos mostrará los
 ```
 
 Deberías ver algo parecido a estas líneas:
-
+|
 ```bash
   Changes not staged for commit:
     (use "git add <file>..." to update what will be committed)
